@@ -1,9 +1,9 @@
-#Android Material Webview
+# Android Material Webview
 
 No coding skills? - Create a native Android app from your website.
 Web developer with no Android skills? - Develop your own app with html/css/js.
 
-##Features:
+## Features:
 
  - Modern Material Design on every supported version of Android
  - Set actionbar color/icon/title for every page seperately
@@ -16,14 +16,14 @@ Web developer with no Android skills? - Develop your own app with html/css/js.
  - The apk file is very small (less than 3MB for me)
  - HTML5 / Js support
  
-##Screenshots
+## Screenshots
 
 
 ![scr1](http://abload.de/img/1ipq2y.jpg)
 ![scr2](http://abload.de/img/28coid.jpg)
 
 
-##License:
+## License:
 
     Copyright 2015 Matthias Rupp
 
